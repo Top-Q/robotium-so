@@ -1,4 +1,4 @@
-<sut>
+<?xml version="1.0" encoding="UTF-8"?><sut>
     <client>
         <class>org.jsystemtest.systemobjects.robotium_so.RobotiumSO</class>
         <host>localhost</host>
