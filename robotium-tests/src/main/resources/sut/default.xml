@@ -1,0 +1,12 @@
+<sut>
+    <client>
+        <class>org.jsystemtest.systemobjects.robotium_so.RobotiumSO</class>
+        <host>localhost</host>
+        <port>4321</port>
+        <apklocation>C:\\Users\\itai_a\\git\\mobile-automation\\robotium-server\\bin\\robotium-server.apk</apklocation>
+        <deployServer>false</deployServer>
+        <launchServer>true</launchServer>        
+    </client>
+    
+    
+</sut>
